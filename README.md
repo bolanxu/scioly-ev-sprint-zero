@@ -1,1 +1,3 @@
-# scioly-ev-sprint-zero
+# Scioly EV: SPRINT ZERO
+
+Most Science Olympiad EV builds rely on steering with a caliper and careful alignment. However, if the floor changes, the battery voltage is slightly different, or the wheels slip, your run drifts and your score drops. This project takes a different approach: instead of focusing on a strong mechanical build to ensure it drives straight, it actively steers to enforce it. Using dual wheel encoders, the vehicle continuously compares left and right wheel motion and applies dynamic steering correction in real time, compensating for friction differences, motor imbalance, and surface variation as it drives. Rather than being a passive machine tuned before the run, this EV behaves more like a feedback-controlled system, constantly correcting itself to stay on target and improve repeatability under real competition conditions.
